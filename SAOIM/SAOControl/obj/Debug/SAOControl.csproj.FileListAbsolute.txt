@@ -1,0 +1,9 @@
+D:\SAOIM\SAOControl\bin\Debug\SAOControl.dll
+D:\SAOIM\SAOControl\bin\Debug\SAOControl.pdb
+D:\SAOIM\SAOControl\obj\Debug\SAOControl.dll
+D:\SAOIM\SAOControl\obj\Debug\SAOControl.pdb
+D:\gitdata\SAOIM\SAOIM\SAOControl\bin\Debug\SAOControl.dll
+D:\gitdata\SAOIM\SAOIM\SAOControl\bin\Debug\SAOControl.pdb
+D:\gitdata\SAOIM\SAOIM\SAOControl\obj\Debug\SAOControl.csprojResolveAssemblyReference.cache
+D:\gitdata\SAOIM\SAOIM\SAOControl\obj\Debug\SAOControl.dll
+D:\gitdata\SAOIM\SAOIM\SAOControl\obj\Debug\SAOControl.pdb

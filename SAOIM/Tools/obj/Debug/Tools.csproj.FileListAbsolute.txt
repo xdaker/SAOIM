@@ -1,0 +1,9 @@
+D:\SAOIM\Tools\bin\Debug\Tools.dll
+D:\SAOIM\Tools\bin\Debug\Tools.pdb
+D:\SAOIM\Tools\obj\Debug\Tools.dll
+D:\SAOIM\Tools\obj\Debug\Tools.pdb
+D:\gitdata\SAOIM\SAOIM\Tools\bin\Debug\Tools.dll
+D:\gitdata\SAOIM\SAOIM\Tools\bin\Debug\Tools.pdb
+D:\gitdata\SAOIM\SAOIM\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+D:\gitdata\SAOIM\SAOIM\Tools\obj\Debug\Tools.dll
+D:\gitdata\SAOIM\SAOIM\Tools\obj\Debug\Tools.pdb

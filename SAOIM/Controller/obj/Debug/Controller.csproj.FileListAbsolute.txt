@@ -1,0 +1,5 @@
+D:\SAOIM\Controller\bin\Debug\Controller.dll
+D:\SAOIM\Controller\bin\Debug\Controller.pdb
+D:\SAOIM\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\SAOIM\Controller\obj\Debug\Controller.dll
+D:\SAOIM\Controller\obj\Debug\Controller.pdb

@@ -1,0 +1,4 @@
+D:\SAOIM\Document\bin\Debug\Document.dll
+D:\SAOIM\Document\bin\Debug\Document.pdb
+D:\SAOIM\Document\obj\Debug\Document.dll
+D:\SAOIM\Document\obj\Debug\Document.pdb

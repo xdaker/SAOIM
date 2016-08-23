@@ -1,0 +1,9 @@
+D:\SAOIM\View\bin\Debug\View.dll
+D:\SAOIM\View\bin\Debug\View.pdb
+D:\SAOIM\View\obj\Debug\View.dll
+D:\SAOIM\View\obj\Debug\View.pdb
+D:\gitdata\SAOIM\SAOIM\View\bin\Debug\View.dll
+D:\gitdata\SAOIM\SAOIM\View\bin\Debug\View.pdb
+D:\gitdata\SAOIM\SAOIM\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\gitdata\SAOIM\SAOIM\View\obj\Debug\View.dll
+D:\gitdata\SAOIM\SAOIM\View\obj\Debug\View.pdb

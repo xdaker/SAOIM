@@ -1,0 +1,5 @@
+D:\SAOIM\IModel\bin\Debug\IModel.dll
+D:\SAOIM\IModel\bin\Debug\IModel.pdb
+D:\SAOIM\IModel\obj\Debug\IModel.csprojResolveAssemblyReference.cache
+D:\SAOIM\IModel\obj\Debug\IModel.dll
+D:\SAOIM\IModel\obj\Debug\IModel.pdb
