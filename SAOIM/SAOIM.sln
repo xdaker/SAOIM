@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAOControl", "SAOControl\SAOControl.csproj", "{35C216AA-24E3-4683-97E3-2D8A0CE08CE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewResources", "ViewResources\ViewResources.csproj", "{6D7D026D-E2C7-48CA-A7C2-CA91E7E6306C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{35C216AA-24E3-4683-97E3-2D8A0CE08CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C216AA-24E3-4683-97E3-2D8A0CE08CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C216AA-24E3-4683-97E3-2D8A0CE08CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7D026D-E2C7-48CA-A7C2-CA91E7E6306C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7D026D-E2C7-48CA-A7C2-CA91E7E6306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7D026D-E2C7-48CA-A7C2-CA91E7E6306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7D026D-E2C7-48CA-A7C2-CA91E7E6306C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
